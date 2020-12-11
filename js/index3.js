@@ -1,4 +1,4 @@
-// Определить среднее арифметическое трех чисел.
+// Определяет среднее арифметическое трех чисел.
 
 const number1 = prompt ('Enter the first number');
 const number2 = prompt ('Enter the second number');
