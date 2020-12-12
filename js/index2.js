@@ -5,4 +5,6 @@ const value2 = prompt ('enter values two');
 
 const resultValue = value1 === value2;
 
-alert('Values ' + value1 + ' Is Equal ' + 'Values ' + value2 + ':\n' + Boolean(resultValue));
+const resultIsEqual = 'Values ' + value1 + ' Is Equal ' + 'Values ' + value2 + ':\n' + resultValue;
+
+alert(resultIsEqual);
